@@ -1,0 +1,31 @@
+.myNotes{
+    
+    
+}
+.note{
+    width: 60%;
+    background-color: rgb(59, 58, 58);
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+.note p{
+    margin: 0;
+    
+}
+ul{
+    margin: 0;
+}
+ul li{
+    margin: 0;
+    font-size: 20px;
+}
+.btn{
+    margin-right: 5px;
+}

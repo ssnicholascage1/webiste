@@ -1,0 +1,7 @@
+.mainPage{
+    width: 100%;
+    height: 93vh;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
